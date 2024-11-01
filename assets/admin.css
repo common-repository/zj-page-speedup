@@ -1,0 +1,59 @@
+.select2_grid {
+    border: solid 1px;
+}
+
+.select2_table {
+    border: solid 1px;
+    width: 1000px;
+    height: 100%;
+}
+
+.add_to_list {
+    margin: 20px;
+}
+
+.footer_button {
+    margin: 10px;
+}
+
+.select2 {
+    display: flex;
+    width: 1000px;
+    margin: 20px;
+}
+
+.select2_item {
+    margin: 20px;
+}
+
+.url_input {
+    width: 400px;
+}
+
+.check_plugins {
+    margin: 5px;
+}
+
+.urls_container {
+    display: flex;
+}
+
+.urls_container ul {
+    display: list-item;
+    overflow: hidden;
+}
+
+.urls_container ul li {
+    margin: 5px;
+    cursor: pointer;
+}
+
+.ui-selected {
+    border: 1px solid #888;
+    background: #5555AA;
+    color: white;
+}
+
+.button_list {
+    display: flex;
+}

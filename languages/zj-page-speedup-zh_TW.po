@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/zj-page-"
+"speedup\n"
+"POT-Creation-Date: 2022-04-27T04:01:35+00:00\n"
+"PO-Revision-Date: 2022-04-30 11:34+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#. Plugin Name of the plugin
+msgid "ZJ Page Speedup"
+msgstr "ZJ 網頁加速"
+
+#. Plugin URI of the plugin
+msgid "https://demo-cj.net/zj-page-speed-up-plugin/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Speed up your page loading with avoiding loading unnecessary plugins when "
+"visting specified urls on your website."
+msgstr "當您在瀏覽您往站上的網頁時以避免載入不需要的外掛加快網頁載入速度."
+
+#. Author of the plugin
+msgid "DS workshop"
+msgstr "德順工作室"
+
+#. Author URI of the plugin
+msgid "https://www.demo-cj.net"
+msgstr ""
+
+#: admin/admin.php:43 admin/admin.php:53
+msgid "ZJ Page Speed Up"
+msgstr "ZJ 網頁加速"
+
+#: admin/admin.php:57
+msgid ""
+"You can add the website URL first and specify which plugins will avoid to "
+"load when loading the URL in the list."
+msgstr ""
+"您可以先新增一個往站上的網址然後指定哪些外掛不需要載入. 當網頁載入時, 會避"
+"免載入符合網址清單上的外掛."
+
+#: admin/admin.php:58
+msgid ""
+"Once you finish the list of the url-to-plugins, you can try to visit the "
+"URLs you optimized."
+msgstr "一旦您完成了網址對應免載入外掛名單, 您可以嘗試這些優化過的網址."
+
+#: admin/admin.php:65
+msgid "Url:"
+msgstr "網址:"
+
+#: admin/admin.php:67
+msgid "Add to List"
+msgstr "加入網址清單"
+
+#: admin/admin.php:103
+msgid "Remove Selected Url"
+msgstr "移除選取的網址"
+
+#: admin/admin.php:106
+msgid "Uncheck All Plugins"
+msgstr "取消所有外掛的勾選"
+
+#: admin/admin.php:135
+msgid " Settings"
+msgstr " 之設置"
+
+#: admin/admin.php:144
+msgid "Enable"
+msgstr "啟用"
